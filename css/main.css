@@ -21,7 +21,7 @@ html, body {
 header {
   height: 300px;
   width: 100%;
-  background: #e3e3e3;
+  background: #e0e08e;
 }
 
 
@@ -65,18 +65,26 @@ footer {
 
   #column-1 {
     background-color: #4c89c2;
+    
   }
 
   #column-2 {
-    background-color: #433977;
+    background-color: #446659;
+   
   }
 
   #column-3 {
-    background-color: #532c6d;
+    background-color: #373d74;
+    width: 100%;
   }
 
   footer {
-    background-color: #ffb6c1;
+    background-color: #693d44;
+  
+  }
+
+  .col-3{
+    width: 50%;
   }
   
 }
@@ -90,18 +98,24 @@ footer {
 
   #column-1 {
     background-color: #909eb3;
+   
   }
 
   #column-2 {
     background-color: #b493a0;
+    
   }
 
   #column-3 {
     background-color: #cc8b93;
+    width: 33.333%;
   }
 
   footer {
     background-color: #f08080;
   }
    
+  .col-3{
+    width: 33.333%
+  }
 }
