@@ -75,7 +75,7 @@ footer {
 
   #column-3 {
     background-color: #373d74;
-    width: 100%;
+    width: 33.333%;
   }
 
   footer {
@@ -84,7 +84,7 @@ footer {
   }
 
   .col-3{
-    width: 50%;
+    width: 33.333%;
   }
   
 }
