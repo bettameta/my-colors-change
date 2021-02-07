@@ -3,6 +3,7 @@
 
 html, body {
   margin: 0px;
+  
 }
 
 .clear {
@@ -50,7 +51,7 @@ header {
 
 footer {
   width: 100%;
-  height: 30px;
+  height: 100px;
   background: #e3e3e3;
 }
 
@@ -64,13 +65,11 @@ footer {
   }
 
   #column-1 {
-    background-color: #4c89c2;
-    
+    background-color: #4c89c2;  
   }
 
   #column-2 {
-    background-color: #446659;
-   
+    background-color: #446659; 
   }
 
   #column-3 {
@@ -80,7 +79,6 @@ footer {
 
   footer {
     background-color: #693d44;
-  
   }
 
   .col-3{
@@ -97,13 +95,11 @@ footer {
   }
 
   #column-1 {
-    background-color: #909eb3;
-   
+    background-color: #909eb3;   
   }
 
   #column-2 {
-    background-color: #b493a0;
-    
+    background-color: #b493a0;    
   }
 
   #column-3 {
